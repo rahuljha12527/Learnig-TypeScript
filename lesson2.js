@@ -15,4 +15,4 @@ age = 40;
 var cir = function (diameter) {
     return diameter * Math.PI;
 };
-console.log(cir('hello'));
+console.log(cir(23));
