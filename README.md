@@ -2,7 +2,7 @@
 
 
 
-#lesson1:-In this I learn how to comiple typescript file.<br>
+#lesson1:-In this I learn how to compile typescript file.<br>
 #lesson2:-type basics (If we store a string data in any variable then after if we want to overwrite then it will be string.)<br>
 #lesson3:-Its all about Object and array.<br>
 #lesson4:-Its all about explicit types.<br>
